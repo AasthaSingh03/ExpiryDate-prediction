@@ -1,0 +1,18 @@
+#no to be uploaded when on production stage. just for references,.
+
+KEY 1
+2Tk8wr4VItoqKD9W7iHdfpmqo3DD9TvUfeBueFBn9BzmwjqKK0PhJQQJ99BBACGhslBXJ3w3AAAFACOGstwF
+
+
+Endpoint
+https://ankush.cognitiveservices.azure.com/
+
+
+
+KEY 2
+ABKeAKdBHOBu4s0eElGz3PLBEuWqmeH0WX8JBTCjrPj1K7rHLb5eJQQJ99BBACGhslBXJ3w3AAAFACOGh5s2
+
+
+
+key1 - translator .
+2Tk8wr4VItoqKD9W7iHdfpmqo3DD9TvUfeBueFBn9BzmwjqKK0PhJQQJ99BBACGhslBXJ3w3AAAFACOGstwF
